@@ -8,5 +8,6 @@ namespace SW01.Data.ISW01Repository
 {
     interface IGenericRepository
     {
+
     }
 }
