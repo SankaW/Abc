@@ -130,6 +130,7 @@
     <Compile Include="Group.cs">
       <DependentUpon>SW01Data.tt</DependentUpon>
     </Compile>
+    <Compile Include="ISW01Repository\ICompanyReository.cs" />
     <Compile Include="ISW01Repository\IGenericRepository.cs" />
     <Compile Include="LastSixMonthsanalisiReorder.cs">
       <DependentUpon>SW01Data.tt</DependentUpon>
