@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SW01.Data.SW01Repository
 {
-    public abstract class GenericRepository<T> : IGenericRepository<T> where T : class    {
+    public abstract class GenericRepository<T> : IGenericRepository<T> where T : class//    {
         internal DbSet<T> EntitySet { get; set; }
         protected SW01Entities Context { get; set; }
      
