@@ -166,6 +166,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>SW01Data.edmx</DependentUpon>
     </Compile>
+    <Compile Include="SW01Repository\CompanyRepository.cs" />
     <Compile Include="SW01Repository\GenericRepository.cs" />
     <Compile Include="Tax.cs">
       <DependentUpon>SW01Data.tt</DependentUpon>
