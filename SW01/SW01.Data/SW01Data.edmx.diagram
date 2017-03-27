@@ -4,61 +4,8 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="1d006850854e4aae98e90dddb7c4cd3f" Name="Diagram1">
-        <EntityTypeShape EntityType="SW01DataModel.AccountSubType" Width="1.5" PointX="8" PointY="7" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.AccountType" Width="1.5" PointX="5.75" PointY="7.125" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.AddProduct" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.aspnet_Applications" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.aspnet_Membership" Width="1.5" PointX="3" PointY="7.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.aspnet_NewProfile" Width="1.5" PointX="10.5" PointY="11.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.aspnet_Paths" Width="1.5" PointX="3" PointY="13.625" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.aspnet_PersonalizationAllUsers" Width="1.5" PointX="5.25" PointY="13.875" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.aspnet_PersonalizationPerUser" Width="1.5" PointX="5.25" PointY="10.625" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.aspnet_Profile" Width="1.5" PointX="10.5" PointY="14.25" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.aspnet_Roles" Width="1.5" PointX="3" PointY="16.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.aspnet_SchemaVersions" Width="1.5" PointX="10.75" PointY="4.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.aspnet_Users" Width="1.5" PointX="8.25" PointY="12.125" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.aspnet_WebEvent_Events" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.Branch" Width="1.5" PointX="5.25" PointY="1.25" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.Company" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.CVCreate" Width="1.5" PointX="10.75" PointY="7.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.Department" Width="1.5" PointX="7.5" PointY="1.625" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.Group" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.Product" Width="1.5" PointX="12.75" PointY="5.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.Tax" Width="1.5" PointX="12.75" PointY="11.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.Vehicle" Width="1.5" PointX="14.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.LastSixMonthsanalisiReorder" Width="1.5" PointX="14.75" PointY="3.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.ProductAgeAnalysi" Width="1.5" PointX="14.75" PointY="9.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.ProductAgelocation" Width="1.5" PointX="14.75" PointY="15.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.View_StockAdj" Width="1.5" PointX="16.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.vw_aspnet_Applications" Width="1.5" PointX="16.75" PointY="5.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.vw_aspnet_MembershipUsers" Width="1.5" PointX="5.75" PointY="16.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.vw_aspnet_Profiles" Width="1.5" PointX="7.75" PointY="16.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.vw_aspnet_Roles" Width="1.5" PointX="16.75" PointY="8.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.vw_aspnet_Users" Width="1.5" PointX="16.75" PointY="11.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.vw_aspnet_UsersInRoles" Width="1.5" PointX="16.75" PointY="15.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.vw_aspnet_WebPartState_Paths" Width="1.5" PointX="9.75" PointY="17.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.vw_aspnet_WebPartState_Shared" Width="1.5" PointX="11.75" PointY="17.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.vw_aspnet_WebPartState_User" Width="1.5" PointX="18.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.VW_BINCARD" Width="1.5" PointX="18.75" PointY="3.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.VW_LOCATIONWISERPT" Width="1.5" PointX="18.75" PointY="10.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SW01DataModel.VW_PRODUCTWISERPT" Width="1.5" PointX="18.75" PointY="15.75" IsExpanded="true" />
-        <AssociationConnector Association="SW01DataModel.FK_AccountSubType_AccountType" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK__aspnet_Me__Appli__55F4C372" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK__aspnet_Pa__Appli__59C55456" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK__aspnet_Ro__Appli__5E8A0973" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK__aspnet_Us__Appli__5F7E2DAC" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK__aspnet_Us__Appli__607251E5" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK__aspnet_Me__UserI__56E8E7AB" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK_aspnet_NewProfile_aspnet_Users" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK__aspnet_Pe__PathI__5AB9788F" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK__aspnet_Pe__PathI__5BAD9CC8" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK__aspnet_Pe__UserI__5CA1C101" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK__aspnet_Pr__UserI__5D95E53A" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK_Branch_Company" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK_Department_Branch" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.FK_Company_Group" ManuallyRouted="false" />
-        <AssociationConnector Association="SW01DataModel.aspnet_UsersInRoles" ManuallyRouted="false" />
+      <Diagram DiagramId="0be1b0420f0c4be6b2daddaa36a0e9e3" Name="Diagram1">
+        <EntityTypeShape EntityType="SW01DBModel.Person" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

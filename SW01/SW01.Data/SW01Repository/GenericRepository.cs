@@ -10,9 +10,9 @@ namespace SW01.Data.SW01Repository
 {
     public abstract class GenericRepository<T> : IGenericRepository<T> where T : class//    {
         internal DbSet<T> EntitySet { get; set; }
-        protected SW01Entities Context { get; set; }
+        protected SW01DBEntities Context { get; set; }
      
-        public GenericRepository(SW01Entities context)
+        public GenericRepository(SW01DBEntities context)
         {
             Context = context;
             EntitySet = Context.Set<T>();
