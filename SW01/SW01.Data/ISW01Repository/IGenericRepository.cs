@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SW01.Data.ISW01Repository
 {
-    interface IGenericRepository<T> where T : class
+    public interface IGenericRepository<T> where T : class
     {
         IQueryable<T> GetQueryable();
         List<T> GetAll();

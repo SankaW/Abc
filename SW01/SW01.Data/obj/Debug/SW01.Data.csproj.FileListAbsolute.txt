@@ -1,0 +1,10 @@
+C:\Users\Sanka\Desktop\GitHub\Abc\SW01\SW01.Data\bin\Debug\SW01.Data.dll.config
+C:\Users\Sanka\Desktop\GitHub\Abc\SW01\SW01.Data\bin\Debug\SW01.Data.dll
+C:\Users\Sanka\Desktop\GitHub\Abc\SW01\SW01.Data\bin\Debug\SW01.Data.pdb
+C:\Users\Sanka\Desktop\GitHub\Abc\SW01\SW01.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sanka\Desktop\GitHub\Abc\SW01\SW01.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sanka\Desktop\GitHub\Abc\SW01\SW01.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sanka\Desktop\GitHub\Abc\SW01\SW01.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sanka\Desktop\GitHub\Abc\SW01\SW01.Data\obj\Debug\SW01.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sanka\Desktop\GitHub\Abc\SW01\SW01.Data\obj\Debug\SW01.Data.dll
+C:\Users\Sanka\Desktop\GitHub\Abc\SW01\SW01.Data\obj\Debug\SW01.Data.pdb

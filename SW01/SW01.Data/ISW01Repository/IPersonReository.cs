@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SW01.Data.ISW01Repository
 {
-    interface IPersonReository : IGenericRepository<Person>,IDisposable
+    public interface IPersonReository : IGenericRepository<Person>,IDisposable
     {
     }
 }
