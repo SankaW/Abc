@@ -25,6 +25,7 @@ namespace SW01
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap-yeti.css",
+                      //"~/Content/bootstrap.css",
                       "~/Content/site.css"));
         }
     }
